@@ -135,7 +135,7 @@ body::before {
     text-decoration: none; /* Elimina el subrayado del enlace */
   }
   .social-links img {
-    width: 80px;
+    width: 50px;
     height: auto;
     transition: transform 0.3s; /* Añade una animación al pasar el cursor */
   }
