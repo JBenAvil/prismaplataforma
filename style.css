@@ -129,7 +129,7 @@ body::before {
   .social-links {
     text-align: center;
     display: inline-block; /* Coloca los elementos en línea horizontal */
-    gap: 10px; /* Espaciado de 10px entre los elementos */
+    gap: 2px; /* Espaciado de 10px entre los elementos */
   }
   .social-links a {
     text-decoration: none; /* Elimina el subrayado del enlace */
